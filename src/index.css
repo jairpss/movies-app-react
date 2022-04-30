@@ -31,8 +31,8 @@ h1 {
   letter-spacing: 0.9px;
   background: linear-gradient(
     90deg,
-    rgba(249, 211, 180, 1) 0%,
-    rgba(249, 211, 180, 0) 100%
+    rgb(244, 62, 26) 0%,
+    rgb(244, 62, 26) 100%
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -100,7 +100,7 @@ h1 {
 
 .empty h2 {
   font-size: 1.25rem;
-  color: #f9d3b4;
+  color: #f0382f;
   font-family: var(--font-raleway);
 }
 
@@ -134,7 +134,7 @@ h1 {
   width: 100%;
   opacity: 0;
   top: 0;
-  color: #f9d3b4;
+  color: #f0382f;
 }
 
 .movie:hover {
@@ -175,7 +175,7 @@ h1 {
 .movie div:nth-of-type(3) h3 {
   margin-top: 5px;
   font-family: "Space Grotesk", serif;
-  color: #f9d3b4;
+  color: #f0382f;
 }
 
 .movie:hover div:nth-of-type(2) {
